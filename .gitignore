@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.ipynb~
+
+# Configuration files
+*.env
+.venv
+.venv/
+.env/
+.envrc
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Virtual environment
+myenv/
+.venv/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Coverage reports
+coverage/
+*.cover
+*.coverage
+*.coverage.*
+.cache
+noset
